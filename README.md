@@ -71,4 +71,4 @@ Actualizar `pip` asegura tener la versión más reciente, lo que reduce errores 
 
 ## Enlace al repositorio remoto
 
-[GitHub - python-final](https://github.com/tu-usuario/python-final)
+[GitHub - python-final](https://github.com/tomasVilche/Python-final)
